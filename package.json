@@ -1,0 +1,24 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "learning webpack plugin setting",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjshinning/library.git"
+  },
+  "author": "chenjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjshinning/library/issues"
+  },
+  "homepage": "https://github.com/cjshinning/library#readme",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9"
+  }
+}
